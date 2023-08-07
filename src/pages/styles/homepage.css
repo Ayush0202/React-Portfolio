@@ -38,8 +38,9 @@
 }
 
 .homepage-image-container {
-	width: 370px;
-	height: 370px;
+	width: 300px;
+	height: 300px;
+	margin-bottom: 100px;
 }
 
 .homepage-image-wrapper {
@@ -49,6 +50,7 @@
 }
 
 .homepage-image-wrapper img {
+	height: 400px;
 	width: 100%;
 }
 
