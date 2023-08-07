@@ -32,6 +32,7 @@
 }
 
 .homepage-first-area-right-side {
+	transform: rotateZ(-3deg);
 	display: flex;
 	align-items: center;
 }
@@ -119,8 +120,10 @@
 	}
 
 	.homepage-first-area-right-side {
-		width: 100%;
+		transform: rotateZ(-3deg);
+		height: 10%;
 		order: 1;
+		/* display: none; */
 	}
 
 	.homepage-image-container {
